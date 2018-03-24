@@ -1,6 +1,8 @@
 import media
 import fresh_tomatoes
 
+# File, to store 
+
 toy_story = media.Movie("Toy Story",
                         "A story of a boy and his toys",
                         "http://www.heyuguys.com/images/2010/08/Toy-Story-3-Poster2.jpg",
@@ -34,7 +36,7 @@ hunger_games = media.Movie("School of Rock",
 
 movies = [toy_story,avatar,school_of_rock, ratatuille, midnight_in_paris, hunger_games]
 
-#fresh_tomatoes.open_movies_page(movies)
+fresh_tomatoes.open_movies_page(movies)
 #print(media.Movie.VALID_RATINGS)
 print(media.Movie.__doc__)
 print(media.Movie.__name__)
