@@ -17,5 +17,5 @@ The page is created server-side, by the following process:
 1. Install [Python](https://www.python.org/).
 2. Clone this repository to your local drive.
 3. In your terminal, cd into the folder of the cloned repository.
-4. In your terminal, run `python entertainment_center.py`, to create the .html file. After which, the browser will open the newly created `fresh_tomatoes.py`
+4. In your terminal, run `python entertainment_center.py`, to create the .html file. After which, the browser will open the newly created `fresh_tomatoes.html`-page with the user's favorite movies.
 5. That's it - have fun! :-)
